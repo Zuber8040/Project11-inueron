@@ -11,7 +11,7 @@ Hope you like my project !! And Note that I have made it responsive it only work
   - CSS Grid
 
 ## Demo for Laptop Screen
-https://spiffy-sawine-68c63e.netlify.app/
+https://chimerical-gnome-1b99d0.netlify.app/
 
 ![](./assets/11.png)
 
